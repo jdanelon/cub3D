@@ -1,0 +1,17 @@
+R 480 300
+NO ./textures/paper_mario/north.xpm
+SO ./textures/paper_mario/south.xpm
+WE ./textures/paper_mario/west.xpm
+EA ./textures/  paper_mario/east.xpm
+
+S ./textures/paper_mario/sprite.xpm
+F 220,100,0
+C 225,30,0
+
+1111111111111111111
+10000000000000000W1
+1000000000000000001
+1000000002000000001
+1000000000000000001
+1000000000000000001
+1111111111111111111
